@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.31",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -12,7 +12,10 @@
     "zoho chat",
     "react zoho",
     "react zoho chat",
-    "zoho"
+    "zoho",
+    "salesIQ",
+    "zoho salesIQ",
+    "zoho-salesIQ"
   ],
   "engines": {
     "node": ">=10"
@@ -45,6 +48,7 @@
     "trailingComma": "es5"
   },
   "name": "zoho-chat",
+  "description": "Simple zoho salesIQ chat component to use in React projects",
   "author": {
     "name": "Navid Nourani"
   },
