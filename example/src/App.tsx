@@ -14,7 +14,7 @@ function App() {
       />
       {ready && (
         <button onClick={click}>
-          {'It is a custom component => click to Open'}
+          {"It's a custom component => click to Open!"}
         </button>
       )}
     </>
